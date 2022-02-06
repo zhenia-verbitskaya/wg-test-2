@@ -1,0 +1,13 @@
+http://link-na.wargaming.net/custloads/272760712/md_775251.png
+http://link-na.wargaming.net/custloads/272760712/md_869512.png
+http://link-na.wargaming.net/custloads/272760712/md_870448.png
+http://link-na.wargaming.net/custloads/272760712/d_gulitskiy/GCRM-6191/wotpcESRB.jpg
+http://link-na.wargaming.net/custloads/272760712/md_869517.png
+http://link-na.wargaming.net/custloads/272760712/md_869514.png
+http://link-na.wargaming.net/custloads/272760712/md_869519.png
+http://link-na.wargaming.net/custloads/272760712/md_718884.png
+
+
+font-family:Arial, Helvetica, sans-serif;
+
+color:#f3bc61;
